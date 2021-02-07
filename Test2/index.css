@@ -62,3 +62,10 @@
     background-color:yellowgreen;
     color: snow;
 }
+
+#modal-dialog{
+    background: linear-gradient(
+        90deg
+        , #1c3643 0, #273b47 50%, #1e5372);
+    color: snow;
+} 
