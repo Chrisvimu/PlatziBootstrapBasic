@@ -29,10 +29,25 @@
     color: snow;
     z-index: 1;
 }
+
 #carousel .overlay .container, 
 #carousel .overlay .row{
     height: 100%;
 }
+#orador .img {
+    height: 30vh;
+    object-fit: cover;
+}
+
+#place-time {
+    background-color: #343a40;
+    color: snow;
+}
+
+#place-time img {
+    max-width: 100%;
+}
+
 #footer {
     background: linear-gradient(
         90deg
